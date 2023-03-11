@@ -1,0 +1,4 @@
+Images have not been added here because of the large size of the dataset and licensing reasons.
+Add the corresponding images to this folder before running any of the scripts.
+
+The dataset can be downloaded at https://dronedataset.icg.tugraz.at/

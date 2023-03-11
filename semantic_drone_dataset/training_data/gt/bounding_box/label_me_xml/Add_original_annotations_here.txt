@@ -1,0 +1,4 @@
+The original annotations have not been added here because of licensing reasons.
+Add the corresponding annotations in the LabelMeXML format to this folder before running any of the scripts.
+
+The dataset can be downloaded at https://dronedataset.icg.tugraz.at/
